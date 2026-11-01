@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PAD_FILE xmlns="http://www.appvisor.com/schema/pad-4.0" version="4.0">
+  <PAD_INFO>
+    <PAD_VERSION>4.0</PAD_VERSION>
+    <SPECIFICATION_URL>http://www.appvisor.com/schema/pad-4.0</SPECIFICATION_URL>
+  </PAD_INFO>
+  <PROGRAM_INFO>
+    <PROGRAM_NAME>LifeScheduler</PROGRAM_NAME>
+    <PROGRAM_VERSION>1.0.0</PROGRAM_VERSION>
+    <PROGRAM_RELEASE_MONTH>11</PROGRAM_RELEASE_MONTH>
+    <PROGRAM_RELEASE_YEAR>2026</PROGRAM_RELEASE_YEAR>
+    <PROGRAM_COST_DOLLARS>19.9</PROGRAM_COST_DOLLARS>
+    <PROGRAM_COST_OTHER></PROGRAM_COST_OTHER>
+    <PROGRAM_TYPE>Shareware</PROGRAM_TYPE>
+    <PROGRAM_CATEGORY>
+      <CATEGORY_ID>1020</CATEGORY_ID>
+      <CATEGORY_NAME>Office/Scheduling</CATEGORY_NAME>
+    </PROGRAM_CATEGORY>
+    <PROGRAM_LICENSE>FREE_TO_TRY</PROGRAM_LICENSE>
+    <PROGRAM_LICENSE_REGISTRATION>Perpetual lifetime license</PROGRAM_LICENSE_REGISTRATION>
+    <PROGRAM_INSTALL_SUPPORT>INSTALL_SUPPORT_SUPPORTED</PROGRAM_INSTALL_SUPPORT>
+    <PROGRAM_UNINSTALL_SUPPORT>INSTALL_SUPPORT_SUPPORTED</PROGRAM_UNINSTALL_SUPPORT>
+    <PROGRAM_DESCRIPTION_SHORT>
+      Lightweight offline life scheduler for Windows & macOS. Lifetime license, no subscription.
+    </PROGRAM_DESCRIPTION_SHORT>
+<PROGRAM_DESCRIPTION_LONG>
+LifeScheduler is a lightweight, offline-first life scheduling application for Windows and macOS. Built for people who value privacy and simplicity, it runs entirely on your local machine — no cloud sync, no account registration, no recurring fees.
+
+Key Features:
+- 100% offline after activation (machine-code bound license)
+- Native Qt/C++ performance, minimal resource usage
+- Trial mode included (30 days free)
+- Portable and installer versions (Windows)
+- One-time payment, lifetime access — no subscription
+- No telemetry, no data collection
+
+Activation: After installation, the app displays your machine code. Send it to the developer to receive an authorization code. Enter the code once and you're set for life on that device.
+</PROGRAM_DESCRIPTION_LONG>
+    <PROGRAM_LANGUAGE>ENGLISH</PROGRAM_LANGUAGE>
+    <PROGRAM_OS_SUPPORT>Windows 10,Windows 11,macOS 11,macOS 12,macOS 13,macOS 14,macOS 15</PROGRAM_OS_SUPPORT>
+    <PROGRAM_OS_SUPPORT_MAX></PROGRAM_OS_SUPPORT_MAX>
+    <PROGRAM_OS_SUPPORT_MIN></PROGRAM_OS_SUPPORT_MIN>
+    <PROGRAM_OS_REQUIREMENTS>64-bit OS, 50MB disk space</PROGRAM_OS_REQUIREMENTS>
+    <PROGRAM_WEBSITE_URL>https://github.com/yinchine115/life-scheduler</PROGRAM_WEBSITE_URL>
+    <PROGRAM_DOWNLOAD_URL>https://github.com/yinchine115/life-scheduler/releases/latest</PROGRAM_DOWNLOAD_URL>
+    <PROGRAM_ORDER_URL>https://www.creem.io/payment/prod_2JVBBgmFjrf4W3eROuS1jO</PROGRAM_ORDER_URL>
+    <PROGRAM_SCREEN_SHOT_URL>https://raw.githubusercontent.com/yinchine115/life-scheduler/main/assets/screenshot-1.png</PROGRAM_SCREEN_SHOT_URL>
+    <PROGRAM_ICON_URL>https://raw.githubusercontent.com/yinchine115/life-scheduler/main/assets/icon.png</PROGRAM_ICON_URL>
+  </PROGRAM_INFO>
+  <COMPANY_INFO>
+    <COMPANY_NAME>yinchine</COMPANY_NAME>
+    <COMPANY_EMAIL>yinchine2019@gmail.com</COMPANY_EMAIL>
+    <COMPANY_WEBSITE_URL>https://github.com/yinchine115</COMPANY_WEBSITE_URL>
+    <COMPANY_LOGO_URL></COMPANY_LOGO_URL>
+  </COMPANY_INFO>
+  <WEB_INFO>
+    <WEB_PRICE>19.9</WEB_PRICE>
+    <WEB_CURRENCY>USD</WEB_CURRENCY>
+    <WEB_DOWNLOAD_URL>https://github.com/yinchine115/life-scheduler/releases/latest</WEB_DOWNLOAD_URL>
+    <WEB_HOMEPAGE_URL>https://github.com/yinchine115</WEB_HOMEPAGE_URL>
+    <WEB_ORDER_URL>https://www.creem.io/payment/prod_2JVBBgmFjrf4W3eROuS1jO</WEB_ORDER_URL>
+  </WEB_INFO>
+</PAD_FILE>
