@@ -21,7 +21,7 @@
     <PROGRAM_INSTALL_SUPPORT>INSTALL_SUPPORT_SUPPORTED</PROGRAM_INSTALL_SUPPORT>
     <PROGRAM_UNINSTALL_SUPPORT>INSTALL_SUPPORT_SUPPORTED</PROGRAM_UNINSTALL_SUPPORT>
     <PROGRAM_DESCRIPTION_SHORT>
-      Lightweight offline life scheduler for Windows & macOS. Lifetime license, no subscription.
+      Lightweight offline life scheduler for Windows &amp; macOS. Lifetime license, no subscription.
     </PROGRAM_DESCRIPTION_SHORT>
 <PROGRAM_DESCRIPTION_LONG>
 LifeScheduler is a lightweight, offline-first life scheduling application for Windows and macOS. Built for people who value privacy and simplicity, it runs entirely on your local machine — no cloud sync, no account registration, no recurring fees.
