@@ -1,14 +1,13 @@
 
 <?xml version="1.0" encoding="UTF-8"?>
-<PAD_FILE xmlns="http://www.appvisor.com/schema/pad-4.0" version="4.0">
+<PAD_FILE>
   <PAD_INFO>
     <PAD_VERSION>4.0</PAD_VERSION>
-    <SPECIFICATION_URL>http://www.appvisor.com/schema/pad-4.0</SPECIFICATION_URL>
+    <PAD_EDITOR>Manual</PAD_EDITOR>
   </PAD_INFO>
   <PROGRAM_INFO>
     <PROGRAM_NAME>LifeScheduler</PROGRAM_NAME>
     <PROGRAM_VERSION>1.0.0</PROGRAM_VERSION>
-    <PROGRAM_RELEASE_MONTH>11</PROGRAM_RELEASE_MONTH>
     <PROGRAM_RELEASE_YEAR>2026</PROGRAM_RELEASE_YEAR>
     <PROGRAM_COST_DOLLARS>19.9</PROGRAM_COST_DOLLARS>
     <PROGRAM_COST_OTHER></PROGRAM_COST_OTHER>
@@ -21,22 +20,8 @@
     <PROGRAM_LICENSE_REGISTRATION>Perpetual lifetime license</PROGRAM_LICENSE_REGISTRATION>
     <PROGRAM_INSTALL_SUPPORT>INSTALL_SUPPORT_SUPPORTED</PROGRAM_INSTALL_SUPPORT>
     <PROGRAM_UNINSTALL_SUPPORT>INSTALL_SUPPORT_SUPPORTED</PROGRAM_UNINSTALL_SUPPORT>
-    <PROGRAM_DESCRIPTION_SHORT>
-      Lightweight offline life scheduler for Windows and macOS. Lifetime license, no subscription.
-    </PROGRAM_DESCRIPTION_SHORT>
-    <PROGRAM_DESCRIPTION_LONG>
-LifeScheduler is a lightweight, offline-first life scheduling application for Windows and macOS. Built for people who value privacy and simplicity, it runs entirely on your local machine - no cloud sync, no account registration, no recurring fees.
-
-Key Features:
-- 100% offline after activation (machine-code bound license)
-- Native Qt/C++ performance, minimal resource usage
-- Trial mode included (30 days free)
-- Portable and installer versions (Windows)
-- One-time payment, lifetime access - no subscription
-- No telemetry, no data collection
-
-Activation: After installation, the app displays your machine code. Send it to the developer to receive an authorization code. Enter the code once and you're set for life on that device.
-    </PROGRAM_DESCRIPTION_LONG>
+    <PROGRAM_DESCRIPTION_SHORT>Lightweight offline life scheduler for Windows and macOS. Lifetime license, no subscription.</PROGRAM_DESCRIPTION_SHORT>
+    <PROGRAM_DESCRIPTION_LONG>LifeScheduler is a lightweight, offline-first life scheduling application for Windows and macOS. Built for people who value privacy and simplicity, it runs entirely on your local machine - no cloud sync, no account registration, no recurring fees. Key Features: - 100% offline after activation (machine-code bound license) - Native Qt/C++ performance, minimal resource usage - Trial mode included (30 days free) - Portable and installer versions (Windows) - One-time payment, lifetime access - no subscription - No telemetry, no data collection. Activation: After installation, the app displays your machine code. Send it to the developer to receive an authorization code. Enter the code once and you're set for life on that device.</PROGRAM_DESCRIPTION_LONG>
     <PROGRAM_LANGUAGE>ENGLISH</PROGRAM_LANGUAGE>
     <PROGRAM_OS_SUPPORT>Windows 10,Windows 11,macOS 11,macOS 12,macOS 13,macOS 14,macOS 15</PROGRAM_OS_SUPPORT>
     <PROGRAM_OS_SUPPORT_MAX></PROGRAM_OS_SUPPORT_MAX>
@@ -60,5 +45,15 @@ Activation: After installation, the app displays your machine code. Send it to t
     <WEB_DOWNLOAD_URL>https://github.com/yinchine115/life-scheduler/releases/download/v1.0.0/LifeScheduler-v1.0.0-Setup.exe</WEB_DOWNLOAD_URL>
     <WEB_HOMEPAGE_URL>https://getlifescheduler.com</WEB_HOMEPAGE_URL>
     <WEB_ORDER_URL>https://www.creem.io/payment/prod_2JVBBgmFjrf4W3eROuS1jO</WEB_ORDER_URL>
+    <APPLICATION_URLS>
+      <APPLICATION_INFO_URL>https://getlifescheduler.com</APPLICATION_INFO_URL>
+      <APPLICATION_XML_FILE_URL>https://getlifescheduler.com/lifescheduler_pad.xml</APPLICATION_XML_FILE_URL>
+      <APPLICATION_SCREENSHOT_URL>https://getlifescheduler.com/assets/screenshot-1.png</APPLICATION_SCREENSHOT_URL>
+      <APPLICATION_ICON_URL>https://getlifescheduler.com/assets/icon.png</APPLICATION_ICON_URL>
+      <APPLICATION_ORDER_URL>https://www.creem.io/payment/prod_2JVBBgmFjrf4W3eROuS1jO</APPLICATION_ORDER_URL>
+    </APPLICATION_URLS>
+    <DOWNLOAD_URLS>
+      <PRIMARY_DOWNLOAD_URL>https://github.com/yinchine115/life-scheduler/releases/download/v1.0.0/LifeScheduler-v1.0.0-Setup.exe</PRIMARY_DOWNLOAD_URL>
+    </DOWNLOAD_URLS>
   </WEB_INFO>
 </PAD_FILE>
